@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 109vh;
+  background: #cbdbff;
+}
+
+.form-container{
+  width:1000px;
+ 
+}
+
+.title,.slogen{
+  text-align: center;
+}
+
+.btn{
+  width: 100%;
+}
+.auth-image{
+border-radius: 10px;
+margin: auto;
+height:590px;
+}
+
+
+.profile-card{
+  width: 500px;
+}
+.avatar{
+  margin-bottom: 1.5rem;
+}
+.username{
+  text-transform: capitalize;
+}
+.profile-button{
+  margin-top: 1.3rem;
+  width: 100%;
+}
